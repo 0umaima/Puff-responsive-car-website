@@ -308,6 +308,7 @@ img {
 }
 .home__button{
   position: relative;
+  color: #fff;
   border: 2px solid hsl(158, 89%, 30%);
   width: 70px;
   height: 70px;
